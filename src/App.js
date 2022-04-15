@@ -14,6 +14,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
+          data-testid='text'
         >
          Hey yay!, Just a simple text to trigger build !
         </a>
