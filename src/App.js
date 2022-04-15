@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
           data-testid='text'
         >
-         Hey yay!, Just a simple text to trigger build !
+         Hey yay!, Triggering build from feature branch!!
         </a>
       </header>
     </div>
