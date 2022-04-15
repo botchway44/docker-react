@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Hey yay!, I am a react app
+         Hey yay!, Just a simple text to trigger build !
         </a>
       </header>
     </div>
