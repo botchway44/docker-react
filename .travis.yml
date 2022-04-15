@@ -7,4 +7,4 @@ before_install:
   - docker build -t botchway44/docker-react -f Dockerfile.dev .
 
 script:
-  - docker run botchway44/docker-react npm run test -- --coverage
+  - docker run -e CI=true botchway44/docker-react npm run test -- --coverage
